@@ -17,7 +17,7 @@ This repository contains six practical laboratory projects focused on cryptograp
 | Lab # | Title & Link | Description |
 |------:|--------------|-------------|
 | 1 | [🔤 Classical Ciphers & Caesar Cipher](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_1) | Implements classical Caesar cipher and its variant with permuted alphabet, exploring basic substitution cryptography principles. |
-| 2 | [🔍 Cryptanalysis of Monoalphabetic Substitution](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_2) | 🚧 **Coming Soon** – Frequency analysis and cryptanalytic techniques for breaking monoalphabetic substitution ciphers. |
+| 2 | [🔍 Cryptanalysis of Monoalphabetic Substitution](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_2) | Frequency analysis and cryptanalytic techniques for breaking monoalphabetic substitution ciphers. |
 | 3 | [🔀 Polyalphabetic Substitution](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_3) | 🚧 **Coming Soon** – Implementation and analysis of Vigenère cipher and other polyalphabetic substitution methods. |
 | 4 | [🔒 Symmetric Ciphers & Block Ciphers](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_4) | 🚧 **Coming Soon** – Modern symmetric encryption algorithms including AES and block cipher modes of operation. |
 | 5 | [🗝️ Public Key Cryptography](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_5) | 🚧 **Coming Soon** – RSA algorithm implementation and asymmetric encryption principles. |

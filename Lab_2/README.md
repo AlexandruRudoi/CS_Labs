@@ -4,7 +4,7 @@
 
 ### **Author**: Alexandru Rudoi
 
-📑 **[👉 Read the Full Report](https://github.com/AlexandruRudoi/CS_Labs/blob/main/Lab_2/docs/CS_Lab2_Report.pdf)**
+📑 **[👉 Read the Full Report](https://github.com/AlexandruRudoi/CS_Labs/blob/main/Lab_2/CS_Lab2_Report.pdf)**
 
 ---
 

@@ -21,7 +21,7 @@ This repository contains six practical laboratory projects focused on cryptograp
 | 3 | [🔀 Playfair Cipher - Polyalphabetic Substitution](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_3) | Matrix-based digraph encryption with multi-alphabet support (Romanian, English, Russian). Object-oriented implementation of classical Playfair cipher. |
 | 4 | [🔒 DES Round Key Generation - Symmetric Block Cipher](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_4) | Implementation of DES key schedule algorithm. Demonstrates permutation tables (PC-1, PC-2), circular shifts, and 48-bit round key generation. |
 | 5 | [🗝️ Public Key Cryptography - RSA, ElGamal & Diffie-Hellman](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_5) | Comprehensive implementation of asymmetric cryptography: RSA encryption/decryption with 2048-bit keys, ElGamal probabilistic encryption, and Diffie-Hellman key exchange with AES-256 derivation. |
-| 6 | [✍️ Hashing and Digital Signatures](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_6) | 🚧 **Coming Soon** – Hash functions, message authentication codes (MAC), and digital signature schemes. |
+| 6 | [✍️ Hashing and Digital Signatures](https://github.com/AlexandruRudoi/CS_Labs/tree/main/Lab_6) | Digital signature schemes with RSA (3072-bit, MD5) and ElGamal (2048-bit, MD4). Implements message signing, verification, and demonstrates authenticity, integrity, and non-repudiation properties. |
 
 ---
 
@@ -33,8 +33,9 @@ Through this comprehensive lab series, I am developing expertise in both theoret
 - **Lab 3**: Polyalphabetic substitution with Playfair cipher, featuring multi-alphabet support and clean OOP architecture
 - **Lab 4**: Modern symmetric cryptography fundamentals through DES key schedule algorithm and permutation operations
 - **Lab 5**: Asymmetric cryptography - RSA encryption/decryption (2048-bit), ElGamal probabilistic encryption, and Diffie-Hellman key exchange with AES-256 key derivation
+- **Lab 6**: Digital signatures and hash functions - RSA signatures (3072-bit, MD5), ElGamal signatures (2048-bit, MD4), demonstrating message authentication and non-repudiation
 
-The journey progresses from historical ciphers through modern symmetric encryption to public-key cryptography, with upcoming topics including hash functions and digital signatures. These projects strengthen understanding of security principles while building practical skills in implementing and analyzing cryptographic systems using Python.
+The journey progresses from historical ciphers through modern symmetric encryption to public-key cryptography and digital signatures. These projects strengthen understanding of security principles while building practical skills in implementing and analyzing cryptographic systems using Python.
 
 ---
 
